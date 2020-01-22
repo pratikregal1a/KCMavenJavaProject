@@ -97,12 +97,12 @@
         <repository>
           <id>nexus</id>
           <name>KC Tech Releases Nexus Repository</name>
-          <url>http://3.85.135.129:8081/repository/release/</url>
+          <url>https://github.com/pratikregal1a/KCMavenJavaProject.git</url>
         </repository>
         <snapshotRepository>
           <id>nexus</id>
           <name>KC Tech Snapshot Nexus Repository </name>
-          <url>http://3.85.135.129:8081/repository/snapshot/</url>
+          <url>https://github.com/pratikregal1a/KCMavenJavaProject.git</url>
         </snapshotRepository>
     </distributionManagement>
 
